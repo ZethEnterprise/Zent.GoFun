@@ -8,7 +8,7 @@ In my case I found this one: https://blog.devgenius.io/go-docker-hello-world-f09
 It is quite interesting read - give it a go! (giggles)
 
 But to summarize some of the most important commands I'll choose these:
-
+<pre>
 -------------------------------------------------------
 |                                                     |</br>
 | $go mod init hellogohttp/m/v2                       |
@@ -31,5 +31,5 @@ But to summarize some of the most important commands I'll choose these:
 | Hello, World!                                       |
 |                                                     |
 -------------------------------------------------------
-
+</pre>
 So. Now we have made a textbased "Hello World" example and the same hosted in a Docker Image on a web page. How fun. Third project is going to be GUI! (YAY!)
