@@ -10,7 +10,7 @@ It is quite interesting read - give it a go! (giggles)
 But to summarize some of the most important commands I'll choose these:
 
 -------------------------------------------------------
-|                                                     |
+|                                                     |</br>
 | $go mod init hellogohttp/m/v2                       |
 | //It generates a go.mod file, which is a module file|
 | //and it states which Go version it is running in   |
