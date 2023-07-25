@@ -8,6 +8,7 @@ The source is this one: https://gobyexample.com/hello-world
 
 So basically it is just use the same code as on the web page and then run these commands.
 I was kinda a rebel and used a different name.
+<pre>
 --------------------------------
 |$ go run Hello.go             |
 |hello world                   |
@@ -19,7 +20,7 @@ I was kinda a rebel and used a different name.
 |$ ./Hello                     |
 |hello world                   |
 --------------------------------
-
+</pre>
 Now that was not - not at all challanging. I think the most challanging I had in this Go project was actually setting Go up in a profile to be loaded every time, but that's a different story.
 And then again. We could always talk about ways to play with Linux profiles, which could be loaded in and make sure that your Go profile will not be loaded in multiple times.
 
