@@ -43,3 +43,4 @@ I am doing a "react programming/vlog-thingy" in a Git-repo of this tutorial. How
 Fun thing happened. It failed to decode the image. Oh well, now it is time to make changes and see why it failed to decode the image. So - I think I've found out why this was not working.
 It might be that my Go version and Fyne version is too new and therefore it cannot work together. Luckily it seems like this is another project of scraly, which means I can try out to set
 up the same server and try to run it with that one as my target.
+
