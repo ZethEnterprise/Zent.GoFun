@@ -10,8 +10,8 @@ import
         "github.com/go-openapi/loads"
         "github.com/go-openapi/runtime/middleware"
         
-        "go-rest-api/pkg/swagger/restapi"
-        "go-rest-api/operations"
+        "github.com/ZethEnterprise/Zent.GoFun/Zent.ScralyExamples/go-rest-api/pkg/swagger/server/restapi"
+        "github.com/ZethEnterprise/Zent.GoFun/Zent.ScralyExamples/go-rest-api/pkg/swagger/server/restapi/operations"
 )
 
 func main(){

@@ -1,4 +1,4 @@
-module Zent.ScralyExamples/go-rest-api
+module github.com/ZethEnterprise/Zent.GoFun/Zent.ScralyExamples/go-rest-api
 
 go 1.20
 
